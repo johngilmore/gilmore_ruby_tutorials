@@ -1,4 +1,5 @@
-print "print line1" #prints line with out carriage return
-print "print line2" #prints line with out carriage return
-puts  "puts line3"  #prints line with carriage return
-puts  "puts line4"  #prints line with carriage return
+print "print line1" #results in line with out carriage return
+print "print line2" #results in line with out carriage return
+puts  "puts line3"  #results in line with carriage return AT END
+puts  "puts line4"  #results in line with carriage return AT END
+print "print line5" #results in line w/out carriage return. this will be on a new line due to the PUTS above
